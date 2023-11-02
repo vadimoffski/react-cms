@@ -1,0 +1,12 @@
+.tab a {
+  padding: 10px;
+  display: inline-block;
+  background: #05ba3e;
+  border-radius: 10px 10px 0px 0px;
+  border-right: 1px solid rgb(50, 50, 227);
+  color: white;
+}
+
+.tab > a.active {
+  background: #024618;
+}
